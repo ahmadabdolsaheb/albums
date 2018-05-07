@@ -15,6 +15,7 @@ const styles = {
     borderRadius: 2,
     borderColor: '#DDD',
     borderBottomWidth: 0,
+    backgroundColor: '#fff',
     shadowColor: '#000',
     shadowRadius: 2,
     shadowOpacity: 0.1,
